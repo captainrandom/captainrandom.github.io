@@ -5,9 +5,6 @@
 layout: default
 date:   2019-12-26 23:27:13 -0600
 categories: jekyll update
-description: >- # this means to ignore newlines until "baseurl:"
-Data Engineering, Data Science, & Projects
-baseurl: "" # the subpath of your site, e.g. /blog
 ---
 This blog covers how to do things among the big data space, some machine learning concepts, and any projects I'm working on. You can also connect with me through this website if you would like to reach out to me for a project idea.
 
